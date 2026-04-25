@@ -108,6 +108,33 @@ h2 {
   box-shadow: 0 2px 8px rgba(46, 157, 247, 0.10);
 }
 
+/* Impact story text background block */
+.impact-text-block {
+  position: relative;
+  border-radius: 12px;
+  overflow: hidden;
+  padding: 24px;
+  margin-top: 16px;
+  background-color: rgba(255, 255, 255, 0.85);
+}
+
+.impact-background {
+  position: absolute;
+  inset: 0;
+  background-image: url('img/charitywater-hero.jpg');
+  background-size: cover;
+  background-position: center;
+  opacity: 0.28;
+  filter: blur(1px);
+}
+
+.impact-text-block p {
+  position: relative;
+  z-index: 1;
+  margin: 0;
+  color: #222;
+}
+
 /* Donate Button Styles */
 .donate-button {
   display: inline-block;
