@@ -76,13 +76,6 @@ section {
   text-shadow: 0 1px 4px rgba(0,0,0,0.12);
 }
 
-/* Style the water drop logo */
-.water-drop-logo {
-  margin-top: 20px;
-  width: 100px;
-  height: auto;
-}
-
 /* Story Section Styles */
 .story {
   background-color: #FFC907; /* Primary Yellow */
