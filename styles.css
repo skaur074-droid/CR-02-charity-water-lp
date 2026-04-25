@@ -83,7 +83,7 @@ section {
   text-align: center;
   padding: 36px 24px;
   max-width: 760px;
-  margin: 24px auto;
+  margin: 12px auto 18px auto;
   border-radius: 16px;
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
 }
